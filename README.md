@@ -1,5 +1,3 @@
-# stuntycup
-
 # The Stunty Cup
 
 ## Definitions
