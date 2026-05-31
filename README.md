@@ -33,6 +33,7 @@ As per Blood Bowl 2025 ruleset, you may only declare ***Throw Team-mate*** once 
 | Tier 2 | Gnomes, Halflings, Underworld Goblins* | | |
 | Tier 3 | Goblins | | |
 | Tier 4 | Bruiser Goblins*, Orge | | |
+
 \*Indicates a standard roster that only allows for Stunty positions to be hired.
 
 ## \*Stunty alternatives
