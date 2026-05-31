@@ -38,6 +38,15 @@ As per Blood Bowl 2025 ruleset, you may only declare ***Throw Team-mate*** once 
 
 ## \*Stunty alternatives
 
+### Bruiser Goblins \(Black Orcs, no Black Orcs\)
+
+| Qty | Position | MA | ST | AG | PA | AV | Skills | Primary | Secondary | Cost |
+|-----|----------|----|----|----|----|-----|--------|---------|-----------|------|
+| 0–16 | Goblin Bruiser *(Lineman, Goblin)* | 6 | 2 | 3+ | 4+ | 8+ | Dodge, Right Stuff, Stunty, Thick Skull | A D | G P S | 45k |
+| 0–1 | Trained Troll *(Big Guy, Troll)* | 4 | 5 | 5+ | 5+ | 10+ | Always Hungry, Mighty Blow, Projectile Vomit, Really Stupid, Regeneration, Throw Team-mate | S | A G P | 115k |
+
+---
+
 ### Skinks \(Lizardmen, no Saurus\)
 
 | Qty | Position | MA | ST | AG | PA | AV | Skills | Primary | Secondary | Cost |
@@ -45,15 +54,6 @@ As per Blood Bowl 2025 ruleset, you may only declare ***Throw Team-mate*** once 
 | 0–16 | Skink Lineman *(Lineman, Lizardman)* | 8 | 2 | 3+ | 4+ | 8+ | Dodge, Stunty | A | G P S D | 60k |
 | 0–2 | Chameleon Skink *(Thrower, Lizardman)* | 7 | 2 | 3+ | 3+ | 8+ | Dodge, On the Ball, Shadowing, Stunty | A P | G S D | 70k |
 | 0–1 | Kroxigor *(Big Guy, Lizardman)* | 6 | 5 | 5+ | 6+ | 10+ | Bone Head, Loner (4+), Mighty Blow, Prehensile Tail, Thick Skull | S | A G | 140k |
-
----
-
-### Bruiser Goblins \(Black Orcs, no Black Orcs\)
-
-| Qty | Position | MA | ST | AG | PA | AV | Skills | Primary | Secondary | Cost |
-|-----|----------|----|----|----|----|-----|--------|---------|-----------|------|
-| 0–16 | Goblin Bruiser *(Lineman, Goblin)* | 6 | 2 | 3+ | 4+ | 8+ | Dodge, Right Stuff, Stunty, Thick Skull | A D | G P S | 45k |
-| 0–1 | Trained Troll *(Big Guy, Troll)* | 4 | 5 | 5+ | 5+ | 10+ | Always Hungry, Mighty Blow, Projectile Vomit, Really Stupid, Regeneration, Throw Team-mate | S | A G P | 115k |
 
 ---
 
