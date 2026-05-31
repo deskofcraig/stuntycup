@@ -63,3 +63,5 @@ As per Blood Bowl 2025 ruleset, you may only declare ***Throw Team-mate*** once 
 | 0–6 | Snotling Lineman *(Lineman, Snotling)* | 5 | 1 | 3+ | 4+ | 6+ | Dodge, Insignificant, Right Stuff, Sidestep, Stunty, Titchy | A D M | G | 15k |
 | 0–1 | Troll\* *(Big Guy, Troll)* | 4 | 5 | 5+ | 5+ | 10+ | Always Hungry, Loner (4+), Mighty Blow, Projectile Vomit, Really Stupid, Regeneration, Throw Team-mate | M S | A G P | 115k |
 | 0–1 | Rat Ogre\* *(Big Guy, Skaven)* | 6 | 5 | 4+ | 6+ | 9+ | Animal Savagery, Frenzy, Loner (4+), Mighty Blow, Prehensile Tail | M S | A G | 150k |
+
+* An Underworld Goblin team may have a single Big Guy.
