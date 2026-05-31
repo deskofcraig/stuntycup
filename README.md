@@ -21,7 +21,7 @@ As per Blood Bowl 2025 ruleset, you may only declare ***Throw Team-mate*** once 
     - If the player with ***Right Stuff*** lands in a occupied square, follow the ***Landing in an Occupied Square*** rules.
     - If the player with ***Right Stuff*** is Knocked Down due to bouncing into an occupied square and is the ball carrier, the ball will Bounce from the unoccupied square they eventually land in.
     - Attempting ***Throw Anyone*** player's activation ends.
-4. If ***Right Stuff*** player does not "Squirm free" continue Throw Team-mate procedure as normal. Trolls still roll for ***Always Hungry***, and ***Right Stuff*** player may still squirm free as describe in the Blood Bowl 2025 rule book.
+4. If ***Right Stuff*** player does not "Squirm free" continue Throw Team-mate procedure as normal. ***Always Hungry*** does not take effect on opposition players.
 
 ## Tiers
 
